@@ -2,6 +2,6 @@
 a rpn calculator demo
 
 
-#uild and run in bash
+# build and run in bash
 gradle jar
 bash run.sh
